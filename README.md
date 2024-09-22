@@ -7,4 +7,4 @@
 2. **PS-Sprint-2**: This sprint focuses on intermediate-level problems, further strengthening your foundational skills and introducing more complex concepts.
 3. **PS-Sprint-3**: This sprint includes advanced problems designed to solidify your understanding and prepare you for more challenging programming tasks.
 
-** This repository contains solutions to the problem of Programming-Street-150 ,implemented in C++ .Code is written with simplicity in mind,making iit easy to follow and understand.
+*This repository contains solutions to the problem of Programming-Street-150 ,implemented in C++ .Code is written with simplicity in mind,making iit easy to follow and understand.
