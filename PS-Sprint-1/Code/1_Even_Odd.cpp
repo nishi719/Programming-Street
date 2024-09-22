@@ -22,6 +22,7 @@ int main(){
     else{
         cout<<number<< " is Odd number ."<<endl;
     }
+    
 
     return 0;
 }
